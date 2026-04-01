@@ -2230,7 +2230,7 @@ h2 em { font-style: italic; color: var(--gold); }
   font-family: 'Cormorant Garamond', serif;
   font-size: 2.2rem;
   font-weight: 700;
-  color: var(--teal);
+  color: var(--gold);
   line-height: 1;
 }
 .deal-stock {
