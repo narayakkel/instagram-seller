@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: main
 
-media_folder: "assets/images"
+media_folder: "demo-vimaya_by_remya/assets/images"
 public_folder: "/assets/images"
 
 collections:
