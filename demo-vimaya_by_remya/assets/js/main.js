@@ -176,7 +176,9 @@ fetch('data/products.json')
       // Name, desc, price, stock
       document.getElementById('deal-name').textContent = featured.name;
       document.getElementById('deal-desc').textContent = featured.description;
-      document.getElementById('deal-price').textContent = featured.price;
+      var dealPriceEl = document.getElementById('deal-price');
+      dealPriceEl.textContent = featured.price;
+      if (!/\d/.test(featured.price)) dealPriceEl.style.fontFamily = 'inherit';
       if (featured.stock) {
         document.getElementById('deal-stock').textContent = featured.stock;
       }
@@ -460,6 +462,7 @@ fetch('data/products.json')
   var price = document.createElement('span');
   price.className = 'price';
   price.textContent = item.price;
+  if (!/\d/.test(item.price)) price.style.fontFamily = 'inherit';
   footer.appendChild(price);
   info.appendChild(footer);
 
