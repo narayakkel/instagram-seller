@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "name": "Viscose Georgette Saree",
+      "description": "Elegant viscose georgette saree with blouse piece. Lightweight, vibrant, and perfect for festive occasions.",
+      "price": "DM for Price",
+      "sizes": "",
+      "photo": "",
+      "badge": "New Arrival",
+      "fabric": "Viscose Georgette",
+      "occasion": "Festive",
+      "stock": "",
+      "featured": true,
+      "whatsapp": "919072301300"
+    },
+    {
+      "name": "Pure Soft Cotton Sungudi Saree",
+      "description": "120 count pure soft cotton sungudi saree with blouse piece. Traditional weave with a modern touch.",
+      "price": "DM for Price",
+      "sizes": "",
+      "photo": "",
+      "badge": "Bestseller",
+      "fabric": "Pure Cotton",
+      "occasion": "Daily Wear",
+      "stock": "",
+      "featured": false,
+      "whatsapp": "919072301300"
+    },
+    {
+      "name": "Semi Kanchipuram Silk Saree",
+      "description": "Rich semi Kanchipuram silk saree with traditional motifs and contrast border. Ideal for weddings and celebrations.",
+      "price": "DM for Price",
+      "sizes": "",
+      "photo": "",
+      "badge": "Bestseller",
+      "fabric": "Silk",
+      "occasion": "Wedding",
+      "stock": "",
+      "featured": false,
+      "whatsapp": "919072301300"
+    },
+    {
+      "name": "Warm Silk Saree",
+      "description": "Luxurious warm silk saree with beautiful golden border. Rich drape and premium finish for special occasions.",
+      "price": "DM for Price",
+      "sizes": "",
+      "photo": "",
+      "badge": "",
+      "fabric": "Warm Silk",
+      "occasion": "Festive",
+      "stock": "",
+      "featured": false,
+      "whatsapp": "919072301300"
+    },
+    {
+      "name": "Handloom Cotton Saree",
+      "description": "Classic handloom cotton saree with elegant block print design. Comfortable and stylish for everyday wear.",
+      "price": "DM for Price",
+      "sizes": "",
+      "photo": "",
+      "badge": "New Arrival",
+      "fabric": "Handloom Cotton",
+      "occasion": "Daily Wear",
+      "stock": "",
+      "featured": false,
+      "whatsapp": "919072301300"
+    },
+    {
+      "name": "Designer Tissue Saree",
+      "description": "Exquisite designer tissue saree with intricate embroidery and matching blouse piece. Perfect for parties and events.",
+      "price": "DM for Price",
+      "sizes": "",
+      "photo": "",
+      "badge": "",
+      "fabric": "Tissue",
+      "occasion": "Outings",
+      "stock": "",
+      "featured": false,
+      "whatsapp": "919072301300"
+    }
+  ]
+}

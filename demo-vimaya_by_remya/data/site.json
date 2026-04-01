@@ -1,0 +1,37 @@
+{
+  "brand_photo": "",
+  "journal": [],
+  "marquee_items": [
+    { "text": "Silk Sarees" },
+    { "text": "Georgette Collection" },
+    { "text": "Sungudi Cotton" },
+    { "text": "New Arrivals" },
+    { "text": "Trending Now" }
+  ],
+  "countdown_enabled": false,
+  "countdown_label": "Sale ends in",
+  "countdown_date": "",
+  "footer_collections": [
+    { "name": "Silk Sarees" },
+    { "name": "Georgette Sarees" },
+    { "name": "Cotton Sarees" },
+    { "name": "Sungudi Collection" }
+  ],
+  "site_url": "https://vimayasarees.com",
+  "instagram_handle": "@vimaya_by_remya",
+  "catalogue_enabled": true,
+  "catalogue_mode": "manual",
+  "catalogue_heading": "Explore Our Full Collection",
+  "catalogue_subtext": "Get our latest saree catalogue with all designs, colours and prices sent directly to your WhatsApp.",
+  "catalogue_message": "Hi Vimaya! I'd like to receive your full saree catalogue. Please send it to me. Thank you!",
+  "trust_badges": [
+    { "icon": "check", "text": "100% Original" },
+    { "icon": "shield", "text": "Safe Packaging" },
+    { "icon": "truck", "text": "Pan India Delivery" },
+    { "icon": "heart", "text": "Handpicked with Love" }
+  ],
+  "video_enabled": false,
+  "video_url": "",
+  "video_heading": "Our Story",
+  "video_subtext": "Watch how we handpick every saree with love and care."
+}
