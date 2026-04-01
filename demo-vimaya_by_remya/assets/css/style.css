@@ -846,7 +846,7 @@ h2 em { font-style: italic; color: var(--gold); }
   font-family: 'Cormorant Garamond', serif;
   font-size: var(--text-xl);
   font-weight: 700;
-  color: var(--teal);
+  color: var(--gold);
 }
 
 .whatsapp-btn {
