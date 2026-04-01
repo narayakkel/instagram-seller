@@ -1,3 +1,15 @@
 {
-  "items": []
+  "items": [
+    {
+      "badge": "Bestseller",
+      "occasion": "Festive",
+      "price": "999",
+      "name": "kanjipura",
+      "featured": false,
+      "whatsapp": "919072301300",
+      "photo": "/assets/images/screenshot-2026-04-01-at-21.36.42.png",
+      "stock": "Selling Fast",
+      "description": "form the land of temple"
+    }
+  ]
 }
