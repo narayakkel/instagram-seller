@@ -1,37 +1,77 @@
 {
-  "brand_photo": "",
-  "journal": [],
   "marquee_items": [
-    { "text": "Silk Sarees" },
-    { "text": "Georgette Collection" },
-    { "text": "Sungudi Cotton" },
-    { "text": "New Arrivals" },
-    { "text": "Trending Now" }
+    {
+      "text": "Silk Sarees"
+    },
+    {
+      "text": "Georgette Collection"
+    },
+    {
+      "text": "Sungudi Cotton"
+    },
+    {
+      "text": "New Arrivals"
+    },
+    {
+      "text": "Trending Now"
+    }
   ],
-  "countdown_enabled": false,
   "countdown_label": "Sale ends in",
-  "countdown_date": "",
-  "footer_collections": [
-    { "name": "Silk Sarees" },
-    { "name": "Georgette Sarees" },
-    { "name": "Cotton Sarees" },
-    { "name": "Sungudi Collection" }
-  ],
-  "site_url": "https://vimayasarees.com",
-  "instagram_handle": "@vimaya_by_remya",
+  "video_subtext": "Watch how we handpick every saree with love and care.",
   "catalogue_enabled": true,
-  "catalogue_mode": "manual",
+  "video_url": "https://www.instagram.com/p/DUvMJx1kjOX/",
   "catalogue_heading": "Explore Our Full Collection",
-  "catalogue_subtext": "Get our latest saree catalogue with all designs, colours and prices sent directly to your WhatsApp.",
-  "catalogue_message": "Hi Vimaya! I'd like to receive your full saree catalogue. Please send it to me. Thank you!",
-  "trust_badges": [
-    { "icon": "check", "text": "100% Original" },
-    { "icon": "shield", "text": "Safe Packaging" },
-    { "icon": "truck", "text": "Pan India Delivery" },
-    { "icon": "heart", "text": "Handpicked with Love" }
+  "footer_collections": [
+    {
+      "name": "Silk Sarees"
+    },
+    {
+      "name": "Georgette Sarees"
+    },
+    {
+      "name": "Cotton Sarees"
+    },
+    {
+      "name": "Sungudi Collection"
+    }
   ],
-  "video_enabled": false,
-  "video_url": "",
-  "video_heading": "Our Story",
-  "video_subtext": "Watch how we handpick every saree with love and care."
+  "catalogue_message": "Hi Vimaya! I'd like to receive your full saree catalogue. Please send it to me. Thank you!",
+  "countdown_enabled": false,
+  "instagram_handle": "@vimaya_by_remya",
+  "site_url": "https://vimayasarees.com",
+  "trust_badges": [
+    {
+      "icon": "check",
+      "text": "100% Original"
+    },
+    {
+      "icon": "shield",
+      "text": "Safe Packaging"
+    },
+    {
+      "icon": "truck",
+      "text": "Pan India Delivery"
+    },
+    {
+      "icon": "heart",
+      "text": "Handpicked with Love"
+    }
+  ],
+  "catalogue_subtext": "Get our latest saree catalogue with all designs, colours and prices sent directly to your WhatsApp.",
+  "journal": [
+    {
+      "image": "assets/images/brown-co-dem-set.jpg"
+    },
+    {
+      "image": "assets/images/white-co-dem-set.jpg"
+    },
+    {
+      "image": "assets/images/floral-white.jpg"
+    }
+  ],
+  "catalogue_mode": "manual",
+  "brand_photo": "assets/images/screenshot-2026-04-01-at-21.36.42.png",
+  "countdown_date": "",
+  "video_enabled": true,
+  "video_heading": "Our Story"
 }
