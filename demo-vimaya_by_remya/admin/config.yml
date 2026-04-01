@@ -3,7 +3,7 @@ backend:
   branch: main
 
 media_folder: "demo-vimaya_by_remya/assets/images"
-public_folder: "/assets/images"
+public_folder: "assets/images"
 
 collections:
   - name: "data"
@@ -11,7 +11,7 @@ collections:
     files:
       - name: "products"
         label: "Products"
-        file: "data/products.json"
+        file: "demo-vimaya_by_remya/data/products.json"
         format: "json"
         fields:
           - name: "items"
@@ -32,7 +32,7 @@ collections:
 
       - name: "site"
         label: "Site Settings"
-        file: "data/site.json"
+        file: "demo-vimaya_by_remya/data/site.json"
         format: "json"
         fields:
           - { name: "countdown_enabled", label: "Enable Countdown Timer", widget: "boolean", default: false, hint: "Turn the countdown timer on or off" }
