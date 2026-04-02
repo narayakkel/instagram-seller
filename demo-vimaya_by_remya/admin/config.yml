@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: narayakkel/instagram-seller
   branch: main
 
 media_folder: "demo-vimaya_by_remya/assets/images"
